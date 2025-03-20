@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://github.com/JokerPython3/JokerPython3/blob/main/IMG_0493.jpeg" width="25%" style="margin-left: 20px; margin-bottom: 10px;">
 
 <h1>
   𝐇𝐢 𝐓𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐉𝐨𝐤𝐞𝐫𝐏𝐲𝐭𝐡𝐨𝐧3 
@@ -12,7 +12,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 - 👨‍💻 I’m currently working on web development technologies.
 - 📚 I’m continuously learning about both Frontend and Backend technologies.
 - 🎯 Future Goals: Master more web technologies and create awesome websites.
-  
+
 - 📫 **Telegram:**
 <p>
   <a href="https://t.me/Jokerpython3">
@@ -26,7 +26,6 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<!-- GitHub Stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JokerPython3&layout=compact)
 
 <br>
