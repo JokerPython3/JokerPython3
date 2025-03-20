@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/JokerPython3/JokerPython3/blob/main/IMG_0493.jpeg" width="25%" style="margin-left: 20px; margin-bottom: 10px;">
+<img align="right" src="https://github.com/JokerPython3/JokerPython3/blob/main/IMG_0493.jpeg" width="30%">
 
 <h1>
   𝐇𝐢 𝐓𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐉𝐨𝐤𝐞𝐫𝐏𝐲𝐭𝐡𝐨𝐧3 
