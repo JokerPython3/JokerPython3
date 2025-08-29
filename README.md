@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="AndroidStudio" width="60" height="60"/>
 </p>
