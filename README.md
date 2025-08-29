@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="AndroidStudio" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="60"  height="60"/>
-  <img src="https://skillicons.dev/icons?i=all" alt="Spring" width="60"  height="60"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=idea" alt="Intellij" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="Postgresql" width="60"  height="60"/>
