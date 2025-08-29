@@ -11,4 +11,5 @@
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="AndroidStudio" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="60"  height="60"/>
 </p>
