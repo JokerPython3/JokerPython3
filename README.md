@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="Postgresql" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SqlLite" width="60"  height="60"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60"  height="60"/>
   
   
   
