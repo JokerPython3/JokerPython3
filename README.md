@@ -24,7 +24,9 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=redhat" alt="RedHat" width="60" height="60"/>
-  
+  <img src="https://skillicons.dev/icons?i=clion" alt="Clion" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=rider" alt="Reider" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="60" height="60"/>
   
   
 </p>
