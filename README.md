@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60"  height="60"/>
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
   
   
   
