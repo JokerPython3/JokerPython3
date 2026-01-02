@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=clion" alt="Clion" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=rider" alt="Reider" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="60"  height="60"/>
   
   
 </p>
